@@ -1,11 +1,11 @@
 :root {
 	--dark: #434851;
-	--darker: #ebedf1;
+	--darker: #353b45;
 	--darkest: #1f2127;
 	--grey: #7283a5;
 	--pink: #ef7bb5;
 	--purple: #b198eb;
-	--light: #0d0b0b;
+	--light: #d6cfcf;
 }
 
 * {
